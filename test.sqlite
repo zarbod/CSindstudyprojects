@@ -1,1 +1,2 @@
 CREATE TABLE bruh;
+SELECT * FROM bruh;
